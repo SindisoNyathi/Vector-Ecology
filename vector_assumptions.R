@@ -7,7 +7,7 @@
 #********************************************************************************#
 #Preliminaries.
 #Set the working directory.
-setwd("~/Box/Sindiso Nyathi's Files/Vector Control/Whole Data")
+setwd()
 
 #Load the required libraries. This may require you to install some of these. 
 these_packages <- c("naniar", "magrittr", "lubridate", "ggpubr", 

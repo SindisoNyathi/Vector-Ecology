@@ -7,7 +7,7 @@
 #********************************************************************************#
 #Load packages, set directories and read in required files.
 #Set working directory, read in files and set libraries.
-setwd("~/Box/Sindiso Nyathi's Files/Vector Control/Analysis Data Build")
+setwd()
 
 #Load the required libraries
 these_packages <- c("ggplot2", "ggthemes", "tidyverse", "naniar", "magrittr", "lubridate", 

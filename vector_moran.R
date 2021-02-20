@@ -10,7 +10,7 @@
 library(spdep)
 library(sp)
 
-setwd("~/Box/Sindiso Nyathi's Files/Vector Control/Whole Data")
+setwd()
 
 latlong <- readRDS("Data Files/Final LatLong.rds")
 vecdata <- readRDS("Data Files/Vector Abundance Dataset.rds")
